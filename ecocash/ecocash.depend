@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651830647 source:c:\users\26377\desktop\nyasha's playground\ecocash\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
